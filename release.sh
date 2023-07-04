@@ -1,10 +1,10 @@
 #in venv
-#. ~/venv/bin/activate
+#source ~/venv/bin/activate
 #pip install -r req.txt
 #pip freeze > req.txt
 chmod u+x *.sh *.py
 
-#git config --global --add safe.directory /media/penguinl/PenguinL/PycharmProjects/AllFinanceApp
+git config --global --add safe.directory /media/penguinl/PenguinL/PycharmProjects/AllFinanceApp
 #git clone -o AllFinanceApp https://github.com/PenguinLW/AllFinanceApp.git
 #git config --global user.email "diana1997525@gmail.com"
 #git config --global user.name "PenguinLW"
